@@ -1,4 +1,3 @@
-
 const themeToggle = document.getElementById('theme-toggle');
 const icon = themeToggle.querySelector('.material-icons-round');
 const backgroundVideo = document.querySelector('.video-container video source');
