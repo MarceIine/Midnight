@@ -113,3 +113,15 @@ video {
 .theme-toggle .material-icons-round {
   font-size: 24px;
 }
+
+#discord-widget {
+    position: fixed; 
+    bottom: 0px;
+    right: 0px;
+    width: 300px; 
+    height: 350px;
+    z-index: 99999;
+    border-radius: 10px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.5);
+}
+
