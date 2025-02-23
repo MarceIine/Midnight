@@ -18,8 +18,7 @@ Midnight is a crew in *[Baddies 💅](https://www.roblox.com/games/11158043705/B
 To qualify, you must have **at least 2,000 slays** or own **one of the following OP weapons**:  
 
 - Any variation of the **Purse** (*excluding the Starter Purse*).  
-- Spiked Bat.  
-- Chain Mace.  
+- Spiked Bat.
 - Any variation of **Brass Knuckles**.  
 - Nunchucks.  
 - LoveBoard (*Not a weapon, but highly useful*).  
